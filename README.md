@@ -1,2 +1,2 @@
-# OSiGo
-Operating System in Go
+# ROSE
+ROSE is the abbreviation for Rust Operating System Engineered
